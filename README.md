@@ -1,4 +1,4 @@
-This my neo vim setup 
+This is my neo vim setup when for the few times i decide to use it over vscode:)
 
 **This repo is supposed to be used as config by NvChad users!**
 
